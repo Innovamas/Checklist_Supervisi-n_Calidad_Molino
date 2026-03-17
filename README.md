@@ -1,4 +1,4 @@
-# Checklist de Supoervisión de Calidad Molino - Power BI
+# Checklist de Supervisión de Calidad Molino - Power BI
 [Describe el objetivo principal del repositorio.]
 ---
 ## Objetivo
