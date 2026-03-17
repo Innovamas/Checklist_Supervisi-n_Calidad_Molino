@@ -1,5 +1,4 @@
 # Checklist de Supervisión de Calidad Molino - Power BI
-[Describe el objetivo principal del repositorio.]
 ---
 ## Objetivo
 Visibilidad de los reegistrso del checklist diario de calidad.
